@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# These files are generated locally and are too large for Git.
+data/
+embeddings/
+arxiv-metadata-oai-snapshot.json
